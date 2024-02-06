@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @dipranjan16
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- dipranjan slash soap
+- swiftui/java/javascript/react
+
 
 <!---
 dipranjan16/dipranjan16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
